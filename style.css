@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body
+{
+    background: rgb(193,33,232);
+background: linear-gradient(318deg, rgba(193,33,232,1) 19%, rgba(10,33,136,1) 35%, rgba(0,212,255,1) 99%);
+}
+p
+{
+    font-size: 50px;
+    color: white;
+}
+.btn 
+{
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name 
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label
+{
+    font-size: 40px;
+    font-family: 'Lovers Quarrel', cursive;
+    letter-spacing: 3px;
+    color: white;
+}
+p
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
